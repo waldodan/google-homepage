@@ -1,0 +1,1 @@
+Creating a copy of the google homepage to work on HTML and CSS skills.
